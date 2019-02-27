@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8caf4af-a466-4149-9db8-5248e69dd4ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day3/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +15,7 @@
     <favorites_list name="codeWars" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4146934">
+    <splitter split-orientation="horizontal" split-proportion="0.3564056">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -48,16 +49,16 @@
             <entry file="file://$PROJECT_DIR$/day3/SumDigPower.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="46">
-                  <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+                  <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/day3/likes.py">
+            <entry file="file://$PROJECT_DIR$/day4/likesIt.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="46">
-                  <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+                <state relative-caret-position="437">
+                  <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -93,25 +94,11 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/day3/README.md">
+            <entry file="file://$PROJECT_DIR$/day4/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="506">
-                    <caret line="22" selection-start-line="22" selection-end-line="22" />
-                  </first_editor>
-                  <second_editor>
-                    <markdownNavigatorState />
-                  </second_editor>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/day2/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor>
-                    <caret column="14" selection-start-column="14" selection-end-column="14" />
+                  <first_editor relative-caret-position="230">
+                    <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="28" />
                   </first_editor>
                   <second_editor>
                     <markdownNavigatorState />
@@ -124,6 +111,13 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -133,10 +127,12 @@
         <option value="$PROJECT_DIR$/day1/tortoiseRacing.java" />
         <option value="$PROJECT_DIR$/day2/README.md" />
         <option value="$PROJECT_DIR$/day2/reverseRotate.java" />
-        <option value="$PROJECT_DIR$/day3/README.md" />
         <option value="$PROJECT_DIR$/day3/SumDigPower.java" />
         <option value="$PROJECT_DIR$/day3/SumDigPower.py" />
         <option value="$PROJECT_DIR$/day3/likes.py" />
+        <option value="$PROJECT_DIR$/day3/README.md" />
+        <option value="$PROJECT_DIR$/day4/README.md" />
+        <option value="$PROJECT_DIR$/day4/likesIt.py" />
       </list>
     </option>
   </component>
@@ -147,8 +143,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-150" />
-    <option name="y" value="-1200" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-77" />
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
@@ -177,6 +173,11 @@
               <item name="codeWars" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -186,12 +187,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551230840196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551306964203" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day4" />
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
@@ -221,10 +223,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-150" y="-1200" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1920" y="-77" width="1920" height="1200" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.12300319" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" weight="0.12300319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -241,7 +242,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49893504" visible="true" weight="0.44802207" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49893504" visible="true" weight="0.38546458" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106496" side_tool="true" weight="0.4627415" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,18 +333,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day3/likes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day3/SumDigPower.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day3/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="284">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -351,10 +359,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day3/likes.py">
+    <entry file="file://$PROJECT_DIR$/day4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="28" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/likesIt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="64" lean-forward="true" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        <state relative-caret-position="437">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>

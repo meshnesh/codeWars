@@ -13,6 +13,7 @@ We need a function to collect these numbers, that may receive two integers `a`, 
 Let's see some cases:
 
 ```
+
 sum_dig_pow(1, 10) == [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 sum_dig_pow(1, 100) == [1, 2, 3, 4, 5, 6, 7, 8, 9, 89]
